@@ -2,14 +2,8 @@
 I'm young dev with passion to programming💻  
 I just love sitting in my desktop and trying to code something that maybe someday will change the world to better🌎
 
-### April 2022
-This month I've been working on my first online multiplayer game. It's just a classic snake game but with multiple snakes!  
-I've learned a lot about socket.io library and how WebSockets work! You can check out game [Here](https://snakeish.vercel.app)
-
-### May 2022
-Currently I'm having fun with Flutter! I really liked this framework, it's easy and it's higher customizable than I thought at the begginig
-
-### June 2022
-This month I've graduated my primary school after 8 years of studying. At breaks, I was playing a lot with my friends in card game called "Pan" (in polish language), so I decided to make online game version of it!
-Since in May I started learing Flutter, I've used this tool to make the frontend of the app. Also i needed backend. For that i've used popular Firebase backend service.
-It's really nice but sometimes it's hard to parse data from it. Also, I've made Node.js app with TypeScript to handle request, and to manage Firebase.
+### Expirience
+I've started my journey with **Python** after deciding that **Scratch** is not enough for me. After learing the fundamentals I understood the basics of how programming works.  
+After that, I've learned web developlment - **HTML**, **CSS**, and **JS**. But also I've learned some frameworks: **React**, **Next.js**, and **Nuxt** and by the way **Node.js**.  
+In the meantime I was creating games in **Unity**. This taught me **C#** and Advanced OOP concepts.  
+Also, I've created some apps in **Flutter**. It's was really fun.  
