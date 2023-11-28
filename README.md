@@ -3,7 +3,7 @@ I'm young dev with passion to programming 💻
 I just love sitting in my desktop and trying to code something that maybe someday will change the world to better 🌎
 
 ## Experience
-HTML, CSS, SCSS, JavaScript, TypeScript, Node.js, Discord.js, React, Next.js, Nuxt, Sanity.io, SvelteKit, Python, Go, .NET, ASP.NET Web API, .NET Entity Framework, SQL, Unity, Lua, Dart, Flutter, Firebase. 🧠  
+HTML, CSS, SCSS, JavaScript, TypeScript, Node.js, Discord.js, React, Next.js, Nuxt, Sanity.io, SvelteKit, Python, Go, .NET, ASP.NET Web API, .NET Entity Framework, SQL, Unity, Lua, Dart, Flutter, Firebase, Jetpack Compose, Kotlin. 🧠  
 So basically, I tried many technologies and I can learn pretty anything ⚡
 
 ## Projects
